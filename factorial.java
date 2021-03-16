@@ -4,6 +4,8 @@ public class Ammu{
     Scanner sc=new Scanner(System.in);
     System.out.println("Enter the 1st number");
     int n=sc.nextInt();
+    System.out.println("Enter the 2nd number");
+    int n1=sc.nextInt();
     
     
   }
